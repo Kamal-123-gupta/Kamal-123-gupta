@@ -106,11 +106,21 @@
 
 <p align="center">
   <a href="https://skyline.github.com/Kamal-123-gupta/2025" target="_blank">
-    <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/3d-skyline.gif" alt="3D GitHub Skyline" width="80%"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamal-123-gupta/kamal-123-gupta/output/skyline-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamal-123-gupta/kamal-123-gupta/output/skyline-light.png">
+      <img alt="3D GitHub Skyline" src="https://skyline.github.com/kamal-123-gupta/2025" width="100%">
+    </picture>
   </a>
 </p>
 
-*(Click the skyline to explore your live 3D GitHub contribution world!)*
+<div align="center">
+  <a href="https://skyline.github.com/Kamal-123-gupta/2025" target="_blank">
+    <img src="https://img.shields.io/badge/Skyline-View_3D_Contribution_Graph-blue?style=for-the-badge&logo=github" alt="GitHub Skyline">
+  </a>
+</div>
+
+*(Click above to explore your interactive 3D contribution graph!)*
 
 ---
 
@@ -118,14 +128,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-</p>
-
----
-
-## 🐍 Contribution Animation  
-
-<p align="center">
-  <img src="https://github.com/Kamal-123-gupta/Kamal-123-gupta/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
